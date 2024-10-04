@@ -1,15 +1,12 @@
-# Monstrum Wiki
+# Welcome to the Monstrum Wiki
 
-Welcome to the *Monstrum* wiki. Explore the stories and meet the characters that populate the world of Monstrum.
+Welcome to the official wiki for *Monstrum*. Here you can explore the lore, stories, and characters of the Monstrum universe.
 
-## Stories
-- [Story 1](Story1.md)
-- [Story 2](Story2.md)
+## Explore
 
-## Characters
-- [Character 1](Character1.md)
-- [Character 2](Character2.md)
+- [Stories](stories.md)
+- [Characters](characters.md)
 
----
+### About Monstrum
 
-[Go back to the main page](index.md)
+Monstrum is a vast world filled with gods, demons, and mythical creatures. Dive deep into the histories, conflicts, and legends that shape this universe.
