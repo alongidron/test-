@@ -8,4 +8,4 @@ Lorem ipsum dolor sit amet...
 
 ---
 
-[Go back to the main page](Home.md)
+[Go back to the main page](index.md)
