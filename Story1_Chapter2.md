@@ -9,4 +9,4 @@ Lorem ipsum dolor sit amet...
 
 [Go to Chapter 3](Story1_Chapter3.md)
 
-[Go back to the main page](Home.md)
+[Go back to the main page](index.md)
