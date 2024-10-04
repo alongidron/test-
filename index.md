@@ -12,4 +12,4 @@ Welcome to the *Monstrum* wiki. Explore the stories and meet the characters that
 
 ---
 
-[Go back to the main page](Home.md)
+[Go back to the main page](index.md)
