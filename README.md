@@ -5,6 +5,6 @@ Welcome to the Monstrum Wiki! This is your central guide to the world of Monstru
 ## Pages
 
 - [Stories](stories.md)
-- [Characters](characters.md)
+- [Characters](characters/characters.md)
 
 Explore the different aspects of Monstrum by navigating to the pages linked above.
