@@ -6,4 +6,4 @@ Death is one of the first deities in Monstrum, wielding the immense power of 'De
 - **Key Role**: Creator of the Afterlife, Inventor of Death Magic
 
 [Back to Characters](characters.md)
-[Back to Index](../README.md)
+
