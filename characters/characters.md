@@ -4,7 +4,7 @@ Welcome to the Characters section of the Monstrum Wiki!
 
 Here you will find information about the key characters:
 
-- [Arcturus](arcturus.md)
+- [first-deities](first-deities.md)
 - [Death](death.md)
 - [Izalith](izalith.md)
 
