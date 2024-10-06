@@ -7,7 +7,14 @@ The first deities are the most powerful creatures in Monstrum. Monstrum created 
 The first deities have the most important roles, so Monstrum made sure they would be unkillable. If they somehow die, there will be a major catastrophe in the world.
 
 ## Characters
-- [Death](first-deities/death.md)
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    - [Death](Death.md)
+  </div>
+  <div>
+    - [Yeng and Yen](Yeng-and-Yen.md)
+  </div>
+</div>
 - [Time](Time.md)
 - [Life](Life.md)
 - [God](God.md)
