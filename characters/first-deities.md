@@ -14,4 +14,4 @@ The first deities have the most important roles, so Monstrum made sure they woul
 
 ---
 
-[Back to Characters](../characters.md)
+[Back to Characters](characters.md)
