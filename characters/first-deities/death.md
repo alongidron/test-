@@ -5,5 +5,5 @@ Arcturus is a skilled mage known for mastering fire and water magic. Here’s a 
 - **Magic**: Fire, Water
 - **Key Events**: Destruction of Chaos God, Training the Guardian, Struggling with the Curse
 
-[Back to Characters](characters/first-deities.md)
+[Back to Characters](characters.md)
 
